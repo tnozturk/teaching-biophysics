@@ -1,8 +1,8 @@
 # Teaching-Biophysics
 
-"Teaching Biophysics" will host a collection of syllabi of biophysics courses around the world! Some biophysicists, including me, felt that it would be a good idea to create a database of biophysics course syllabi. We hope that this database can help us standardize learning outcomes and scope of biophysics courses at different levels. 
+"Teaching Biophysics" will host a collection of syllabi of biophysics courses around the world! I hope that this database of biophysics course syllabi can help us standardize learning outcomes and scope of biophysics courses at different levels and/or help biophysicist decide the list of topics they'd like to cover in their own courses.
 
-If you are interested in sharing your syllabus with us, please send an email to ozturk1@llnl.gov. 
+If you are interested in sharing your syllabus here, please send an email to ozturk1@llnl.gov. 
 
 Tugba Ozturk, PhD
 Postdoctoral Researcher
