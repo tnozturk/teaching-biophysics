@@ -21,7 +21,7 @@ A course for non-science-major undergraduates
 
 **Syllabus:** Shared by Dr. Raghuveer Parthasarathy named as [001.ThePhysicsOfLife_Parthasarathy_Winter2018.pdf](https://github.com/tnozturk/teaching-biophysics/blob/main/syllabi/001.PhysicsOfLife_Parthasarathy_Winter2018.pdf)
 
-** List of topics: **
+**List of topics:**
  
 - Introduction, Motivation, and Illustrations
 - Scale and Powers of 10 – In which we get a sense of the size of things
@@ -34,27 +34,27 @@ A course for non-science-major undergraduates
 - Surfaces and surface tension – In which we explore the consequences of surface tension on the functioning of your lungs and ask: why can’t you walk on water
 - On size and shape– In which we ponder how size and shape of can affect an organism’s properties
 
-** Learning outcomes: ** Upon completing the course, students will have enhanced their abilities to:
+**Learning outcomes:** Upon completing the course, students will have enhanced their abilities to:
 
 - understand how physical principles guide and constrain life;
 - assess and interpret graphs and quantitative data;
 - understand the process by which science generates knowledge.
 
-** Typical classroom size and background of students: ** About 50 students; non-science-major undergraduates
+**Typical classroom size and background of students:** About 50 students; non-science-major undergraduates
 
-** Prerequisites: ** None
+**Prerequisites:** None
 
-** Resources: ** None
+**Resources:** None
 
-** Notes: ** Dr. Parthsarathy's new pop-science-biophysics book, So Simple a Beginning: How Four Physical Principles Shape Our Living World (2022), would be an appropriate resource for the course, supplemented with exercises. Dr. Parthsarathy mentioned that a few articles from Scientific American and other popular sources were assigned.
+**Notes:** Dr. Parthsarathy's new pop-science-biophysics book, So Simple a Beginning: How Four Physical Principles Shape Our Living World (2022), would be an appropriate resource for the course, supplemented with exercises. Dr. Parthsarathy mentioned that a few articles from Scientific American and other popular sources were assigned.
 
 ## 002. Introduction to Biophysics
 
 A graduate course
 
-** Syllabus:**  Shared by Dr. Raghuveer Parthasarathy named as [002.IntroductionToBiophysics_Parthasarathy_Fall2020.pdf](https://github.com/tnozturk/teaching-biophysics/blob/main/syllabi/002.IntroductionToBiophysics_Parthasarathy_Fall2020.pdf)
+**Syllabus:**  Shared by Dr. Raghuveer Parthasarathy named as [002.IntroductionToBiophysics_Parthasarathy_Fall2020.pdf](https://github.com/tnozturk/teaching-biophysics/blob/main/syllabi/002.IntroductionToBiophysics_Parthasarathy_Fall2020.pdf)
 
-** List of topics:** 
+**List of topics:** 
 
 - INTRODUCTION; PHYSICS, STATISTICS, AND SIGHT: What are the fundamental limits on vision, and how close does biology come to reaching them? (A brief look)
 - COMPONENTS OF BIOLOGICAL SYSTEMS: What are the components of biological systems? What are the length, time, and energy scales that we’ll care about?
@@ -67,17 +67,17 @@ A graduate course
 - COOL THINGS EVERYONE SHOULD BE AWARE OF: We live in an age in which we can shine a laser at neurons in a live animal to stimulate it, paste genes into any organism we wish, and read the genetic information in a single cell. It would be tragic to be ignorant of these almost magical things, and they contain nice physics as well!
 
 
-** Learning outcomes: ** Upon completing the course, students will have enhanced their abilities to:
+**Learning outcomes:** Upon completing the course, students will have enhanced their abilities to:
 
 - understand the physical principles that govern the function of important biological phenomena such as DNA packaging, bacterial motion, membrane deformation, and gene regulation;
 - apply statistical and statistical-mechanical ideas to a wide variety of complex systems;
 - read contemporary papers in biophysics and follow the aims and approaches.
 
-** Typical classroom size and background of students: ** About 6-12 students; mostly physics graduate students; about 1 chemistry or biology student each time
+**Typical classroom size and background of students:** About 6-12 students; mostly physics graduate students; about 1 chemistry or biology student each time
 
-** Prerequisites: ** A good knowledge of undergraduate physics (especially statistical mechanics) and a corresponding adeptness with math. No prior knowledge of biology
+**Prerequisites: ** A good knowledge of undergraduate physics (especially statistical mechanics) and a corresponding adeptness with math. No prior knowledge of biology
 
-** Resources: ** No mandatory resource, excerpts from the following books:
+**Resources:** No mandatory resource, excerpts from the following books:
 
 - Biological Physics by Philip Nelson
 - Physical Models of Living Systems by Philip Nelson,
