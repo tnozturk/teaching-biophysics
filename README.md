@@ -1,6 +1,6 @@
 # Teaching-Biophysics
 
-"Teaching Biophysics" will host a collection of syllabi of biophysics courses around the world! I hope that this database of biophysics course syllabi can help us standardize learning outcomes and scope of biophysics courses at different levels and/or help biophysicist decide the list of topics they'd like to cover in their own courses.
+"Teaching Biophysics" will host a collection of  biophysics course syllabi, with the hope that this database of biophysics course syllabi can help standardization of learning outcomes and scope of biophysics courses at different levels. If you are planning to teach a biophysics course for the first time, it can help you finalize the list of topics you would like to cover in your course.
 
 If you are interested in sharing your syllabus here, please send an email to ozturk1@llnl.gov. 
 
