@@ -16,7 +16,7 @@ https://bbs.llnl.gov/tugbaozturk.html
 
 
 
-## 001.The Physics of Life
+## 001. The Physics of Life
 
 A course for non-science-major undergraduates
 
