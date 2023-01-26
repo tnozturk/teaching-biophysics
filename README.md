@@ -4,14 +4,14 @@
 
 If you are interested in sharing your syllabus here, please send an email to ozturk1@llnl.gov. 
 
-Tugba Ozturk, PhD
-
+**Tugba Ozturk, PhD**
+```
 Postdoctoral Researcher
 Biochemical and Biophysical Systems Group
 Physical and Life Sciences Directorate 
 Lawrence Livermore National Laboratory
 https://bbs.llnl.gov/tugbaozturk.html
-
+```
 
 
 
