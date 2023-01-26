@@ -47,7 +47,7 @@ A course for non-science-major undergraduates
 
 **Resources:** None
 
-**Notes:** Dr. Parthsarathy's new pop-science-biophysics book, So Simple a Beginning: How Four Physical Principles Shape Our Living World (2022), would be an appropriate resource for the course, supplemented with exercises. Dr. Parthsarathy mentioned that a few articles from Scientific American and other popular sources were assigned.
+**Notes:** Dr. Parthsarathy's new pop-science-biophysics book, `So Simple a Beginning: How Four Physical Principles Shape Our Living World (2022)`, would be an appropriate resource for the course, supplemented with exercises. Dr. Parthsarathy mentioned that a few articles from Scientific American and other popular sources were assigned as readings in this course.
 
 ## 002. Introduction to Biophysics
 
