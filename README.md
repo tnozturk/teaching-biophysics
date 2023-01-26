@@ -19,7 +19,7 @@ https://bbs.llnl.gov/tugbaozturk.html
 
 A course for non-science-major undergraduates
 
-**Syllabus: ** Shared by Dr. Raghuveer Parthasarathy named as [001.ThePhysicsOfLife_Parthasarathy_Winter2018.pdf](https://github.com/tnozturk/teaching-biophysics/blob/main/syllabi/001.PhysicsOfLife_Parthasarathy_Winter2018.pdf)
+**Syllabus:** Shared by Dr. Raghuveer Parthasarathy named as [001.ThePhysicsOfLife_Parthasarathy_Winter2018.pdf](https://github.com/tnozturk/teaching-biophysics/blob/main/syllabi/001.PhysicsOfLife_Parthasarathy_Winter2018.pdf)
 
 ** List of topics: **
  
