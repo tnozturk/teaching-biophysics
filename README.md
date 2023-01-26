@@ -85,4 +85,6 @@ A graduate course
 - Physical Biology of the Cell by Rob Phillips, Jane Kondev, Hernan Garcia & Julie Theriotand
 - Biophysics: Searching for Principles by William Bialek
 
-* Tugba thanks to Dr. Parthasarathy for sharing his syllabi and other resources. *
+
+
+*Tugba thanks to Dr. Parthasarathy for sharing his syllabi and other resources.*
