@@ -3,14 +3,12 @@
 "Teaching Biophysics" will host a collection of  biophysics course syllabi, with the hope that this database of biophysics course syllabi can help standardization of learning outcomes and scope of biophysics courses at different levels. If you are planning to teach a biophysics course for the first time, it can help you finalize the list of topics you would like to cover in your course.
 
 ```
-If you are interested in sharing your syllabus here, please send an email to ozturk1@llnl.gov. 
+If you are interested in sharing your syllabus here, feel free to reach out to me via [email](https://bbs.llnl.gov/tugbaozturk.html), [Twitter](https://twitter.com/tugbaoztrk) or [Linkedin](https://www.linkedin.com/in/tugba-ozturk-ph-d-453707137). 
 
 Tugba Ozturk, PhD
-Postdoctoral Researcher
-Biochemical and Biophysical Systems Group
-Physical and Life Sciences Directorate 
-Lawrence Livermore National Laboratory
-https://bbs.llnl.gov/tugbaozturk.html
+Computational Biophysicist
+
+
 ```
 
 
