@@ -1,4 +1,4 @@
-## 001.The Physics of Life
+## 001. The Physics of Life
 A course for non-science-major undergraduates
 taught by Dr. Raghuveer Parthasarathy 
 Possible resources:
@@ -9,10 +9,12 @@ Possible resources:
 
 A graduate course taught by Dr. Raghuveer Parthasarathy
 Possible resources:
-  - `Biological Physics` by Philip Nelson
-  - `Physical Models of Living Systems` by Philip Nelson,
-  - `Physical Biology of the Cell` by Rob Phillips, Jane Kondev, Hernan Garcia & Julie Theriotand
-  - `Biophysics: Searching for Principles` by  William Bialek
+- `Biological Physics` by Philip Nelson
+- `Physical Models of Living Systems` by Philip Nelson,
+- `Physical Biology of the Cell` by Rob Phillips, Jane Kondev, Hernan Garcia & Julie Theriotand
+- `Biophysics: Searching for Principles` by  William Bialek
+- `Resource Letter: Biological Physics` The American Journal of Physics 89 (2021). https://doi.org/10.1119/5.0060279
+- Blog posts by Raghuveer Parthasarathy: https://eighteenthelephant.com/2015/12/14/recap-of-a-graduate-biophysics-course-part-i/ and https://eighteenthelephant.com/2015/12/28/recap-of-a-graduate-biophysics-course-part-ii/
 
 ## 003. Biological Physics
 A graduate course taught by Dr. Diego Krapf
