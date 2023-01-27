@@ -76,7 +76,7 @@ A graduate course
 
 **Typical classroom size and background of students:** About 6-12 students; mostly physics graduate students; about 1 chemistry or biology student each time
 
-**Prerequisites: ** A good knowledge of undergraduate physics (especially statistical mechanics) and a corresponding adeptness with math. No prior knowledge of biology
+**Prerequisites:** A good knowledge of undergraduate physics (especially statistical mechanics) and a corresponding adeptness with math. No prior knowledge of biology
 
 **Resources:** No mandatory resource, excerpts from the following books:
 
@@ -87,4 +87,51 @@ A graduate course
 
 
 
-*Tugba thanks to Dr. Parthasarathy for sharing his syllabi and other resources.*
+*Tugba thanks to Dr. Parthasarathy for sharing course syllabi and other resources.*
+
+## 003. Biological Physics
+
+A graduate course
+
+**Syllabus:** Shared by Dr. Diego Krapf named as [003.BiologicalPhysics_Krapf.pdf](https://github.com/tnozturk/teaching-biophysics/blob/main/syllabi/003.BiologicalPhysics_Krapf.pdf)
+
+**List of topics:**
+ 
+- Biosensors
+- Cell biophysics
+- Complex systems
+- Electrophysiology
+- Optical microscopy
+- Molecular biophysics
+- Nanotechnology
+- Neuroscience
+- Physical chemistry
+- Quantitative biology
+- Statistical physics
+- Soft condensed matter
+- Systems biology
+
+**Learning outcomes:** Upon completing the course, students will have enhanced their abilities to:
+
+- model the motion of particles and molecules by diffusion
+- derive the dynamics of active particles and those of colloids in the presence of an electric field
+- describe the differences between the effects of an electric field in aqueous solutions vs. in vacuum
+- explain and estimate Debye lengths
+- discuss the freely jointed chain and the wormlike chain models of biopolymers
+- model molecular motors using differential equations
+- apply the formalism of Master equations to solve enzyme kinetics and two-state systems
+- discuss the physical mechanism of voltage gated ion channels
+- use the cable equation to compute the propagation of passive electrical signals
+- describe action potentials
+
+
+**Typical classroom size and background of students:** About 15 students; mostly engineering graduate students
+
+**Prerequisites:** Familiarity multivariate calculus and two semesters of physics
+
+**Resources:** Biological Physics by Philip Nelson and handouts; The following books are suggested:
+ 
+- Physical Biology of the Cell by Phillips, Kondev, and Theriot (Garland Science, 2009)
+- Molecular Biology of the Cell, B. Alberts et. al (Garland Science, 2014)
+
+*Tugba thanks Dr. Krapf for sharing the course syllabus and other resources.*
